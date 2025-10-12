@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔧 Strong in database design and business logic implementation
-- 🖥️ Experienced with Linux environments and desktop application development
 - 🚀 Passionate about building scalable and maintainable systems
+- 🔧 Strong in database design and business logic implementation
 - 💻 Lover of clean code and scalable systems  
 - 🌱 Focused on clean architecture and maintainable code
+- 🖥️ Experienced with Linux environments and desktop application development
 
 ## 📝 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
