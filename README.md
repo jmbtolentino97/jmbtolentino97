@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🚀 Passionate about building scalable and maintainable systems
-- 🔧 Strong in database design and business logic implementation
-- 💻 Lover of clean code and scalable systems  
-- 🌱 Focused on clean architecture and maintainable code
-- 🖥️ Experienced with Linux environments and desktop application development
+- 🚀 Passionate about designing scalable, maintainable, and high-performance backend systems
+- 🔧 Skilled in database design, query optimization, and business logic implementation
+- 💻 Advocate of clean code, SOLID principles, and modular architecture
+- ⚙️ Experienced in application performance tuning and resource optimization across web and desktop apps
+- 🌱 Always learning, refactoring, and pushing for better architecture and developer experience
+- 🖥️ Comfortable in Linux environments, Dockerized deployments, and cross-platform desktop development
 
 ## 📝 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -32,5 +33,3 @@
 - ✂️ KISS (Keep It Simple, Stupid)
 - 🔄 DRY (Don't Repeat Yourself)
 - ❌ YAGNI (You Aren't Gonna Need It)
-
-[![](https://visitcount.itsvg.in/api?id=jmbtolentino97&icon=0&color=0)](https://visitcount.itsvg.in)
