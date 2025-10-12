@@ -1,11 +1,10 @@
-<h1 align="center">Hello There 👋</h1>
+### Hi there 👋
 
-- 🔧 Full-Stack Developer specialized in backend development with expertise in Laravel, C#, Javascript and SQL
+- 🔧 Strong in database design and business logic implementation
 - 🖥️ Experienced with Linux environments and desktop application development
 - 🚀 Passionate about building scalable and maintainable systems
 - 💻 Lover of clean code and scalable systems  
-- 🌱 Currently exploring clean architecture and system design
-- 🌎 Open to collaboration
+- 🌱 Focused on clean architecture and maintainable code
 
 ## 📝 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
