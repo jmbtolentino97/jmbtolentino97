@@ -33,3 +33,9 @@
 - ✂️ KISS (Keep It Simple, Stupid)
 - 🔄 DRY (Don't Repeat Yourself)
 - ❌ YAGNI (You Aren't Gonna Need It)
+
+## 🤝 Let's Connect
+- **[Twitter](https://twitter.com/jmbtolentino97)**
+- **[LinkedIn](https://www.linkedin.com/in/jmbtolentino97/)**
+- **Email:** jmbtolentino97@gmail.com
+- **Mobile #:** +639195696975
