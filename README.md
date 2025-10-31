@@ -36,12 +36,6 @@ I love turning complex requirements into elegant, maintainable architectures.
 - 🔄 DRY (Don't Repeat Yourself)
 - ❌ YAGNI (You Aren't Gonna Need It)
 
-## 🤝 Let's Connect
-- **[Twitter](https://twitter.com/jmbtolentino97)**
-- **[LinkedIn](https://www.linkedin.com/in/jmbtolentino97/)**
-- **Email:** jmbtolentino97@gmail.com
-- **Mobile #:** +639195696975
-
 - ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmbtolentino97)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jmbtolentino97)
