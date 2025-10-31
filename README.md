@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, I’m John Michael Tolentino  
+I’m a Senior Backend Developer specializing in building scalable APIs and automation systems using Laravel and .NET.  
+I love turning complex requirements into elegant, maintainable architectures.
 
 - 🚀 Passionate about designing scalable, maintainable, and high-performance backend systems
 - 🔧 Skilled in database design, query optimization, and business logic implementation
@@ -39,3 +41,9 @@
 - **[LinkedIn](https://www.linkedin.com/in/jmbtolentino97/)**
 - **Email:** jmbtolentino97@gmail.com
 - **Mobile #:** +639195696975
+
+- ## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jmbtolentino97)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jmbtolentino97)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmbtolentino97@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B63%20919%20569%206975-2E7D32?style=for-the-badge&logo=phonepe&logoColor=white)](tel:+639195696975)
